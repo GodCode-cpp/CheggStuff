@@ -1,0 +1,2 @@
+# CheggStuff
+I've recently started doing JS Chegg request to practice and refine my knowledge of the language to always be on top of my game. This is a very generic question I've been receiving (since November) so I've decided to post it here to save time.  The question is as following: Please draw an Inverted Triangle using *s to build up the individual Rows associated with the Triangle.  The size of the triangle is to be determined by asking the user how many rows must be drawn.
