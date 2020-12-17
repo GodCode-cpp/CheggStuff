@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<head>
+<title>Holiday World</title>
+<script src = "Exam.js"></script>
+<link rel="stylesheet" href="Exam.css">
+</head>
+<p id="output">Result</p>
+<button onClick = "MyFunction()"> solve </button>
+</html>
